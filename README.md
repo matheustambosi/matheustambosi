@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/61556272/116019750-495b9a80-a61b-11eb-9080-7b78e504bc72.png)
+<p align="center">
+  <img src="https://media2.giphy.com/media/FMnVZzDALopvG/giphy.gif" alt="Gif">
+</p>
 
 ## Hello! my name is Matheus, I'm a intermediate FullStack Developer from Brazil
 
-![Matheustambosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustambosi&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustambosi&langs_count=3&theme=dark&hide_border=true)
-
-Follow me on my social networks:
+![Matheustambosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustambosi&show_icons=true&theme=dark&hide_border=true&bg_color=161b22)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustambosi&langs_count=3&theme=dark&hide_border=true&bg_color=161b22)
