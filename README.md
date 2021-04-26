@@ -2,5 +2,7 @@
 
 ## Hello! my name is Matheus, I'm a intermediate FullStack Developer from Brazil
 
-![Matheustambosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustambosi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustambosi&langs_count=3&theme=dark)
+![Matheustambosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheustambosi&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustambosi&langs_count=3&theme=dark&hide_border=true)
+
+Follow me on my social networks:
