@@ -1,5 +1,7 @@
+## Always evolving
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/FMnVZzDALopvG/giphy.gif" alt="Gif">
+  <img width="30%" src="https://i.pinimg.com/originals/b7/73/42/b773422eacba4ea6343264da2a0e7c35.gif" alt="Gif">
 </p>
 
 ## Hello! my name is Matheus, I'm a FullStack Developer from Brazil
