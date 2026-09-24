@@ -20,9 +20,6 @@
 </br>
 
 <p align="center">
-  <a href="mailto:matheustambosi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-90EE90?style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/matheushhtambosi">
     <img src="https://img.shields.io/badge/LinkedIn-90EE90?style=for-the-badge" />
   </a>
