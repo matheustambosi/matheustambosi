@@ -29,6 +29,9 @@
   <a href="https://github.com/matheustambosi">
     <img src="https://img.shields.io/badge/GitHub-90EE90?style=for-the-badge" />
   </a>
+  <a href="https://www.matheustambosi.com">
+    <img src="https://img.shields.io/badge/Website-90EE90?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
