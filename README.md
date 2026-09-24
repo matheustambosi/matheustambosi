@@ -14,7 +14,7 @@
 </br>
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=matheustambosi&hide_border=true&exclude_days=Sun%2CSat&background=0D1117&ring=2E8B57&fire=90EE90&currStreakLabel=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=matheustambosi&hide_border=true&background=0D1117&ring=2E8B57&fire=90EE90&currStreakLabel=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" /></a>
 </p>
 
 </br>
